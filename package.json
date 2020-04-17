@@ -1,0 +1,23 @@
+{
+  "name": "pages",
+  "version": "0.0.1",
+  "description": "Will study and learn the functions of GitHub Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wachaon/pages.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Pages"
+  ],
+  "author": "wachaon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wachaon/pages/issues"
+  },
+  "homepage": "https://github.com/wachaon/pages#readme"
+}
