@@ -6,3 +6,5 @@ Will study and learn the functions of GitHub Pages
 ```javascript
 console.log(test.md)
 ```
+
+[Pages](https://wachaon.github.io/pages/)

@@ -10,9 +10,9 @@ console.log('Hello MDwiki')
 
 ## theme の選択
 
-テーマがいくつか用意されているようなのでそれを選択
+テーマがいくつか用意されているようなのでそれを選択できる。
+*navigation.md* に以下を記述する
 
-
-
-
-[gimmick:theme(inverse: true)](flatly)
+```markdown
+[gimmick:theme](flatly)
+```
