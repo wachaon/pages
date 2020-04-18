@@ -15,4 +15,4 @@ console.log('Hello MDwiki')
 
 
 
-[gimmick:themechooser](flatly)
+[gimmick:theme](flatly)
