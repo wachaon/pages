@@ -1,5 +1,5 @@
 ﻿[gimmick:theme](flatly)
 
-# Title
+# Pages
 
 [TOP](index.md)
