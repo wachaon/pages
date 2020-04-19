@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "All content &copy; by wachaon ",
+    "additionalFooterText": "<div>All content &copy; by wachaon</div>",
     "title": "Pages",
     "anchorCharacter": "#"
 }
